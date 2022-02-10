@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "sumsung",
+      "price": 200,
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti, nam odio. Sit mollitia aperiam molestias commodi porro ex modi aliquid corrupti aliquam, magnam, dolores labore deleniti optio quos, repellendus provident?"
+    },
+    {
+      "name": "Iphone77777",
+      "id": "1",
+      "price": "300",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti, nam odio. Sit mollitia aperiam molestias commodi porro ex modi aliquid corrupti aliquam, magnam, dolores labore deleniti optio quos, repellendus provident?"
+    }
+  ]
+}
